@@ -1,3 +1,16 @@
+=== "Puzzle Next" NSMBW Tileset Editor ===
+
+This is an archive of my unfinished "Next" fork of the Puzzle Tileset Editor (https://github.com/Tempus/Puzzle), from circa 2014.
+
+There are some nice ideas in here, but I never finished it enough to make a proper release. Since I never *will* finish it, I'm uploading it here just as a reference. Feel free to borrow anything you want from it.
+
+This has been unmaintained since 2014, and never got a true release at all, so no support is provided whatsoever.
+
+If you want a maintained copy of Puzzle that I *do* support, I recommend checking out my Puzzle-Updated repository (https://github.com/RoadrunnerWMC/Puzzle-Updated).
+
+Original unfinished readme below:
+
+
 === Puzzle Tileset Editor (Release i) ===
 
 Advanced tileset editor for New Super Mario Bros. Wii, created by
